@@ -103,5 +103,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\lfc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\bar_chart.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
